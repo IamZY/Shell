@@ -10,3 +10,5 @@ for i in {0..3}
  do
     echo -n array[$i]
  done
+
+
