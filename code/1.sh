@@ -8,5 +8,5 @@ if [ ! -d $dir ];then
 fi
 
 df -h > $dir/$d.log
-#find $dir/ -mtime +365 |xargs rm
+find $dir/ -mtime +365 |xargs rm -rf
 
