@@ -1,0 +1,1 @@
+Bash also interprets a number of multi-character options
